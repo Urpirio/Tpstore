@@ -1,0 +1,12 @@
+.Pro1{
+    display: flex; justify-content: space-around;
+}
+.pro1{
+    border: 1px solid black; height: 120px; 
+}
+.Pro2{
+    display: flex; justify-content: space-around;margin-top: 1cm;
+}
+.pro2{
+    border: 1px solid black; height: 120px; 
+}
